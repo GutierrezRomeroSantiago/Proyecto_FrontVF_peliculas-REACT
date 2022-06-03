@@ -1,0 +1,13 @@
+.movieGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 230px);
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}
+
+.pageTitle {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
